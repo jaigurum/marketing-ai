@@ -103,10 +103,10 @@ The architectural patterns are identical—the difference is scale, data volume,
 ## Author
 
 **Jaiguru Thevar**  
-Head of Data Science, VML (WPP Group)  
+
 [LinkedIn](https://linkedin.com/in/jaiguru) | [GitHub](https://github.com/jaigurum) | mjguru@gmail.com
 
-*19+ years building AI/ML systems at Amazon, VML/WPP, Citi, and HSBC*
+
 
 ---
 
