@@ -10,8 +10,8 @@ This portfolio demonstrates multi-agent AI architectures for marketing analytics
 
 | Project | Framework | Description | Production Parallel |
 |---------|-----------|-------------|---------------------|
-| [Budget Optimizer](./budget-optimizer-langgraph) | LangGraph | Multi-step agent for marketing budget allocation | €50M+ budget optimization at VML |
-| [Marketing RAG](./marketing-rag-langchain) | LangChain | RAG pipeline for campaign performance Q&A | 85% satisfaction system for Colgate/Unilever |
+| [Budget Optimizer](./budget-optimizer-langgraph) | LangGraph | Multi-step agent for marketing budget allocation | |
+| [Marketing RAG](./marketing-rag-langchain) | LangChain | RAG pipeline for campaign performance Q&A | 85% satisfaction system  |
 | [Multi-Agent Analyst](./multi-agent-adk) | Google ADK | Coordinator + specialist agents for marketing analysis | 12-agent suite serving 4 enterprise clients |
 
 ---
